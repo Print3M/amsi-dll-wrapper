@@ -1,4 +1,4 @@
-# AMSI DLL-Wrapper (Implant)
+# Manual DLL-Wrapping Technique (AMSI DLL-Implant)
 
 Visit related blog post for a better understanding of this code: [print3m.github.io/blog/amsi-dll-wrapper](https://print3m.github.io/blog/amsi-dll-wrapper)
 
